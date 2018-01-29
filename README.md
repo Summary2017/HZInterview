@@ -1,5 +1,7 @@
 # HZInterview
 
+主要实现一个视频边下边播的播放器。
+
 #### 目录结构
 项目的**目录结构**如下图所示，主要的业务逻辑请见红框框处。
 ![目录结构](http://upload-images.jianshu.io/upload_images/1198135-344b967406e380a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
